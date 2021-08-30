@@ -1,0 +1,7 @@
+body {
+  background-color:hsla(197, 90%, 46%, 0.61);
+}
+
+div:focus {
+  outline: none !important;
+}

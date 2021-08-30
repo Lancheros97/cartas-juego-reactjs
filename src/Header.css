@@ -1,0 +1,28 @@
+header {
+  height: 50px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;;
+  align-content: center;
+}
+
+.titulo {
+  font-size: 25px;
+  padding: 10px;
+  color: #fff;
+}
+
+.boton-reiniciar {
+  position: center;
+  align-content: center;
+  background-color: #11a2ce;
+  color: white;
+  padding: 13px 35px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.boton-reiniciar:hover {
+  background-color: #0e25a7;
+}
